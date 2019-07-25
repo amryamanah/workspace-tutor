@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "main_tutor",
+    "chap15_smart_pointer",
+    "chap16_concurrency",
+    "chap17_oop",
+    "blog",
+    "chap18_pattern",
+    "chap19_advanced",
+    "chap20_webserver",
+]

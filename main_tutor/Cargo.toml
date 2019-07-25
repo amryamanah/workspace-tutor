@@ -1,0 +1,17 @@
+[package]
+name = "main_tutor"
+version = "0.1.0"
+authors = ["Amry Amanah <amry.amanah@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+chap15_smart_pointer = { path = "../chap15_smart_pointer" }
+chap16_concurrency = { path = "../chap16_concurrency" }
+chap17_oop = { path = "../chap17_oop" }
+blog = { path = "../blog" }
+chap18_pattern = { path = "../chap18_pattern" }
+chap19_advanced = { path = "../chap19_advanced" }
+chap20_webserver = { path = "../chap20_webserver" }
